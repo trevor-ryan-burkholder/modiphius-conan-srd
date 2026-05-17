@@ -22,7 +22,7 @@ Attributes for player characters typically range from **7** (poor) to **13** (ex
 
 ## Which attribute, which skill?
 
-Each skill has a default attribute that pairs with it, listed in [Skills & Focus](/skills/). The gamemaster can override the default when the fiction makes another attribute more appropriate. A few common re-pairings:
+Each skill has a default attribute that pairs with it, listed in [Skills & Focus]({{ '/skills/' | relative_url }}). The gamemaster can override the default when the fiction makes another attribute more appropriate. A few common re-pairings:
 
 - **Melee** is normally *Agility*, but is *Brawn* for a great-axe charge or *Willpower* for a desperate last stand.
 - **Persuade** is normally *Personality*, but is *Awareness* when reading what an audience needs to hear, or *Intelligence* when constructing a long argument.

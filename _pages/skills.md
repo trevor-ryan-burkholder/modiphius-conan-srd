@@ -6,7 +6,7 @@ subtitle: "The twenty-six skills, with default attribute and scope."
 
 Each skill has two numbers attached: **Expertise** (added to the attribute to form the target number) and **Focus** (the threshold at or below which a die scores two successes instead of one). Most starting characters have Expertise 1–3 and Focus 0–2 in the skills they care about, with 0/0 in the rest.
 
-Where a skill page says "(Agility)" beside the name, that is the *default* attribute. The gamemaster can substitute another when the action calls for it (see [Attributes](/attributes/)).
+Where a skill page says "(Agility)" beside the name, that is the *default* attribute. The gamemaster can substitute another when the action calls for it (see [Attributes]({{ '/attributes/' | relative_url }})).
 
 ## The skill list
 

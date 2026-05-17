@@ -75,7 +75,7 @@ Long downtime (days to weeks). Characters:
 
 - Heal all remaining Wounds and Traumas, barring those that are narratively permanent (a missing eye, a scar of madness).
 - Spend Gold on living and on personal projects.
-- Train new skills, talents, or spells (see [Character Creation](/character-creation/) for XP costs).
+- Train new skills, talents, or spells (see [Character Creation]({{ '/character-creation/' | relative_url }}) for XP costs).
 
 ## Fortune
 

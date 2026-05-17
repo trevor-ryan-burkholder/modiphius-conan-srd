@@ -22,7 +22,7 @@ A few talents stack — they have a maximum rank greater than 1, and each rank e
 
 ## Acquiring talents
 
-Characters begin play with a small set of talents granted by their archetype, caste, and story (see [Character Creation](/character-creation/)). Additional talents are bought with experience between sessions. The standard cost ladder:
+Characters begin play with a small set of talents granted by their archetype, caste, and story (see [Character Creation]({{ '/character-creation/' | relative_url }})). Additional talents are bought with experience between sessions. The standard cost ladder:
 
 | Talent type                  | XP cost |
 | ---------------------------- | ------- |

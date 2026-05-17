@@ -7,8 +7,8 @@ description: >
 author: 'Marginalia'
 # Set this to your repo name when deploying to GitHub Pages, e.g. "/conan-srd"
 # Leave as "" if hosting at the root of a custom domain.
-baseurl: 'https://trevor-ryan-burkholder.github.io'
-url: '/modiphius-conan-srd'
+url: 'https://trevor-ryan-burkholder.github.io'
+baseurl: '/modiphius-conan-srd'
 
 markdown: kramdown
 highlighter: rouge

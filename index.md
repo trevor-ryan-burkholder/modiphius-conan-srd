@@ -13,7 +13,7 @@ The pages here cover the mechanical heart of the game: how the dice work, how ch
 
 Use the sidebar to jump between chapters; each is a self-contained reference page. The order broadly follows the structure of a game session: who is at the table, what they roll, what their character can do, what happens when the swords come out, and what the gamemaster does behind the screen.
 
-Most rules pages end with a short **Quick reference** block. The [Tables Appendix](/appendix-tables/) gathers the most commonly looked-up numbers in one place so you can scroll instead of flip.
+Most rules pages end with a short **Quick reference** block. The [Tables Appendix]({{ '/appendix-tables/' | relative_url }}) gathers the most commonly looked-up numbers in one place so you can scroll instead of flip.
 
 ## A note on scope
 

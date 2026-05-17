@@ -81,7 +81,7 @@ Default XP per session is in the range of **400–600**, with adjustments for le
 - **+100** — for a moment of distinctive roleplay (the player leaned into a flaw, made a hard choice, did something memorable).
 - **+50–100** — for *learning something* about the world (new contact, new lore, a clue uncovered).
 
-Spend ladder, repeated from [Character Creation](/character-creation/):
+Spend ladder, repeated from [Character Creation]({{ '/character-creation/' | relative_url }}):
 
 | Improvement                | XP   |
 | -------------------------- | ---- |

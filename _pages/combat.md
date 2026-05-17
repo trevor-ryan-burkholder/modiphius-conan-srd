@@ -4,7 +4,7 @@ chapter: "Chapter IX"
 subtitle: "Attacks, defenses, and the specific ways a sword meets a shield."
 ---
 
-This page covers the *mechanics* of a single attack — how to roll one, how the target resists, what specific moves are available beyond "I swing." For turn order, zones, and movement, see [Action Scenes](/action-scenes/). For wound tracking and recovery, see [Damage, Wounds & Recovery](/damage-and-recovery/).
+This page covers the *mechanics* of a single attack — how to roll one, how the target resists, what specific moves are available beyond "I swing." For turn order, zones, and movement, see [Action Scenes]({{ '/action-scenes/' | relative_url }}). For wound tracking and recovery, see [Damage, Wounds & Recovery]({{ '/damage-and-recovery/' | relative_url }}).
 
 ## The basic attack
 
@@ -33,7 +33,7 @@ A target who **Parries** or **Dodges** as a Reaction sets the difficulty themsel
 
 ## Successful hits — damage
 
-Hits inflict damage in **Combat Dice [CD]**. A weapon line reads, e.g., "Broadsword — 4 [CD], 1H, Parrying, Vicious 1." The 4 [CD] is the base damage pool, rolled and summed using the [CD reading](/core-mechanic/#combat-dice-challenge-dice).
+Hits inflict damage in **Combat Dice [CD]**. A weapon line reads, e.g., "Broadsword — 4 [CD], 1H, Parrying, Vicious 1." The 4 [CD] is the base damage pool, rolled and summed using the [CD reading]({{ '/core-mechanic/' | relative_url }}#combat-dice-challenge-dice).
 
 You may **add to the damage pool**:
 
@@ -43,7 +43,7 @@ You may **add to the damage pool**:
 | Surprise / unaware target        | +1 [CD]                      |
 | Bonus from talent or spell       | varies                       |
 
-Then the defender **Soaks** the damage: subtract their armor's *Armor Soak* (physical) or *Courage* (mental) value from the damage rolled, then apply the rest to **Vigor** (physical) or **Resolve** (mental). When Vigor or Resolve drops to 0, see *Wounds* and *Traumas* in [Damage, Wounds & Recovery](/damage-and-recovery/).
+Then the defender **Soaks** the damage: subtract their armor's *Armor Soak* (physical) or *Courage* (mental) value from the damage rolled, then apply the rest to **Vigor** (physical) or **Resolve** (mental). When Vigor or Resolve drops to 0, see *Wounds* and *Traumas* in [Damage, Wounds & Recovery]({{ '/damage-and-recovery/' | relative_url }}).
 
 ## Special attack types
 
