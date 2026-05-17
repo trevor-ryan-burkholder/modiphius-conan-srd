@@ -1,15 +1,14 @@
-title: "Conan SRD"
-tagline: "A fan reference for the 2d20 Hyborian Age"
+title: 'Conan SRD'
+tagline: 'A fan reference for the 2d20 Hyborian Age'
 description: >
   An unofficial system reference document covering the mechanical core
   of the 2d20 system as used in the Hyborian Age — for personal use
   among a small group of friends.
-author: "Marginalia"
-
+author: 'Marginalia'
 # Set this to your repo name when deploying to GitHub Pages, e.g. "/conan-srd"
 # Leave as "" if hosting at the root of a custom domain.
-baseurl: ""
-url: ""
+baseurl: 'https://trevor-ryan-burkholder.github.io'
+url: '/conan-srd'
 
 markdown: kramdown
 highlighter: rouge
@@ -27,49 +26,49 @@ collections:
 
 defaults:
   - scope:
-      path: ""
-      type: "pages"
+      path: ''
+      type: 'pages'
     values:
-      layout: "default"
+      layout: 'default'
   - scope:
-      path: ""
+      path: ''
     values:
-      layout: "default"
+      layout: 'default'
 
 # Sidebar order. Each entry is a relative URL into /pages or a top-level file.
 nav:
-  - title: "Foreword"
-    url: "/"
-  - title: "I. Getting Started"
-    url: "/getting-started/"
-  - title: "II. The Core Mechanic"
-    url: "/core-mechanic/"
-  - title: "III. Attributes"
-    url: "/attributes/"
-  - title: "IV. Skills & Focus"
-    url: "/skills/"
-  - title: "V. Talents"
-    url: "/talents/"
-  - title: "VI. Character Creation"
-    url: "/character-creation/"
-  - title: "VII. Momentum & Doom"
-    url: "/momentum-and-doom/"
-  - title: "VIII. Action Scenes"
-    url: "/action-scenes/"
-  - title: "IX. Combat"
-    url: "/combat/"
-  - title: "X. Damage, Wounds & Recovery"
-    url: "/damage-and-recovery/"
-  - title: "XI. Equipment"
-    url: "/equipment/"
-  - title: "XII. Sorcery"
-    url: "/sorcery/"
-  - title: "XIII. Gamemastering"
-    url: "/gamemastering/"
-  - title: "XIV. Encounters"
-    url: "/encounters/"
-  - title: "XV. Tables Appendix"
-    url: "/appendix-tables/"
+  - title: 'Foreword'
+    url: '/'
+  - title: 'I. Getting Started'
+    url: '/getting-started/'
+  - title: 'II. The Core Mechanic'
+    url: '/core-mechanic/'
+  - title: 'III. Attributes'
+    url: '/attributes/'
+  - title: 'IV. Skills & Focus'
+    url: '/skills/'
+  - title: 'V. Talents'
+    url: '/talents/'
+  - title: 'VI. Character Creation'
+    url: '/character-creation/'
+  - title: 'VII. Momentum & Doom'
+    url: '/momentum-and-doom/'
+  - title: 'VIII. Action Scenes'
+    url: '/action-scenes/'
+  - title: 'IX. Combat'
+    url: '/combat/'
+  - title: 'X. Damage, Wounds & Recovery'
+    url: '/damage-and-recovery/'
+  - title: 'XI. Equipment'
+    url: '/equipment/'
+  - title: 'XII. Sorcery'
+    url: '/sorcery/'
+  - title: 'XIII. Gamemastering'
+    url: '/gamemastering/'
+  - title: 'XIV. Encounters'
+    url: '/encounters/'
+  - title: 'XV. Tables Appendix'
+    url: '/appendix-tables/'
 
 plugins:
   - jekyll-seo-tag
@@ -82,3 +81,4 @@ exclude:
   - vendor
   - node_modules
   - .github
+
